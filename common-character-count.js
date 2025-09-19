@@ -28,8 +28,6 @@ function getCommonCharacterCount(s1, s2) {
     return count;
   }
   
-
-
-module.exports = {
+  module.exports = {
   getCommonCharacterCount
 };
